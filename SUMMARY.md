@@ -9,8 +9,9 @@
 
 * [Page 5](group-1/page-5.md)
 * [Page 8](group-1/page-8/README.md)
-  * [Page 9](group-1/page-8/page-9/README.md)
-    * [Page 10](group-1/page-8/page-9/page-10.md)
+  * [Page 11](group-1/page-8/page-11.md)
+  * [Page 10](group-1/page-8/page-10.md)
+  * [Page 9](group-1/page-8/page-9.md)
 * [Page 6](group-1/page-6.md)
 * [Page 7](group-1/page-7.md)
 
